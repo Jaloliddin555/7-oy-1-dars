@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.swiper{
+    width: 700px;
+    height: 600px;
+    text-align: center;
+}
+.header{
+    display: flex;
+    margin-top: 42px;
+    gap: 50px;
+}
+.rasm{   
+    margin-left: 100px;
+}
+.tetx{
+    margin-top: 14px;
+    margin-left: 557px;
+    color: rgb(28, 20, 21);
+font-family: "Poppins";
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+}
+.tetx1{
+    margin-top: 14px;
+    color: rgb(28, 20, 21);
+    font-family: "Poppins";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+}
+.oti{
+    color: rgb(255, 255, 255);
+font-family: "Sofia Sans";
+font-size: 76px;
+font-weight: 900;
+line-height: 137%;
+letter-spacing: -1%;
+margin-bottom: 6px;
+}
+.kottatip{
+    display: flex;
+}
+.tipi{
+    font-family: "Sofia Sans";
+font-size: 52px;
+font-weight: 900;
+line-height: 115.5%;
+letter-spacing: -1%;
+color: rgb(255, 255, 255);
+}
+.tipi1{
+    font-family: "Sofia Sans";
+    font-size: 52px;
+    font-weight: 900;
+    line-height: 115.5%;
+    letter-spacing: -1%;
+    margin-bottom: 70px;
+}
+.text{
+    color: rgba(28, 20, 21, 0.8);
+font-family: "Poppins";
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+    margin-bottom: 70px;
+}
+.sogot{
+    padding-top: 144px;
+    padding-left: 100px;
+    display: flex;
+}
